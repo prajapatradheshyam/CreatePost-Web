@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: font;
+    src: url('/fonts/Ubuntu-Medium.ttf');
+}
+
+*{
+    font-family: font;
+}
